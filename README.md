@@ -1,10 +1,10 @@
 ### About Me
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=cmames&show_icons=true&theme=react&count_private=true&include_all_commits=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=cmames&show_icons=true&theme=aura&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmames&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmames&theme=aura)
 
-Graphs provided from ![github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+Graphs from ![github-readme-stats](https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg) [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **WnndGws/WnndGws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
