@@ -1,6 +1,6 @@
 ### About Me
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=cmames&show_icons=true&theme=aura&count_private=true&include_all_commits=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=cmames&show_icons=true&theme=aura&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmames&theme=aura)
 
